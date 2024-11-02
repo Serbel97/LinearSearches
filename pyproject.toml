@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "math"
 version = "0.1.0"
-description = "Linear searches"
+description = "Optimisation Method Algorithms"
 authors = ["Erik Belak <erik.belak@gmail.com>"]
 
 [tool.poetry.dependencies]

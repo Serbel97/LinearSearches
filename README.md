@@ -1,4 +1,4 @@
-# Linear Searches
+# Optimisation method algorithms
 
 - Fibonacci
 - Golden
