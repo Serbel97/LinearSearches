@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "math"
+version = "0.1.0"
+description = "Linear searches"
+authors = ["Erik Belak <erik.belak@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+numpy = "^2.1.2"
+matplotlib = "^3.9.2"
+scipy = "^1.14.1"
+
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.masonry.api"
